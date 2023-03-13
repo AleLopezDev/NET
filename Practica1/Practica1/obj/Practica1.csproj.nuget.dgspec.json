@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aleloag/Downloads/Practica1/Practica1/Practica1.csproj": {}
+    "/Users/aleloag/Desktop/ProyectosDam/NET/Desarrollo de interfaces/Practica1/Practica1/Practica1.csproj": {}
   },
   "projects": {
-    "/Users/aleloag/Downloads/Practica1/Practica1/Practica1.csproj": {
+    "/Users/aleloag/Desktop/ProyectosDam/NET/Desarrollo de interfaces/Practica1/Practica1/Practica1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aleloag/Downloads/Practica1/Practica1/Practica1.csproj",
+        "projectUniqueName": "/Users/aleloag/Desktop/ProyectosDam/NET/Desarrollo de interfaces/Practica1/Practica1/Practica1.csproj",
         "projectName": "Practica1",
-        "projectPath": "/Users/aleloag/Downloads/Practica1/Practica1/Practica1.csproj",
+        "projectPath": "/Users/aleloag/Desktop/ProyectosDam/NET/Desarrollo de interfaces/Practica1/Practica1/Practica1.csproj",
         "packagesPath": "/Users/aleloag/.nuget/packages/",
-        "outputPath": "/Users/aleloag/Downloads/Practica1/Practica1/obj/",
+        "outputPath": "/Users/aleloag/Desktop/ProyectosDam/NET/Desarrollo de interfaces/Practica1/Practica1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aleloag/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,21 @@
+C:/ProyectosDEIN/WindowsForm/Practica 6/Practica 6/bin/Debug/Practica 6.exe.config
+C:/ProyectosDEIN/WindowsForm/Practica 6/Practica 6/bin/Debug/Practica 6.exe
+C:/ProyectosDEIN/WindowsForm/Practica 6/Practica 6/bin/Debug/Practica 6.pdb
+C:/ProyectosDEIN/WindowsForm/Practica 6/Practica 6/obj/Debug/Practica 6.csproj.AssemblyReference.cache
+C:/ProyectosDEIN/WindowsForm/Practica 6/Practica 6/obj/Debug/Practica 6.csproj.SuggestedBindingRedirects.cache
+C:/ProyectosDEIN/WindowsForm/Practica 6/Practica 6/obj/Debug/Practica_6.FormularioHojaSaslarial.resources
+C:/ProyectosDEIN/WindowsForm/Practica 6/Practica 6/obj/Debug/Practica_6.Properties.Resources.resources
+C:/ProyectosDEIN/WindowsForm/Practica 6/Practica 6/obj/Debug/Practica 6.csproj.GenerateResource.cache
+C:/ProyectosDEIN/WindowsForm/Practica 6/Practica 6/obj/Debug/Practica 6.csproj.CoreCompileInputs.cache
+C:/ProyectosDEIN/WindowsForm/Practica 6/Practica 6/obj/Debug/Practica 6.exe
+C:/ProyectosDEIN/WindowsForm/Practica 6/Practica 6/obj/Debug/Practica 6.pdb
+/Users/aleloag/Downloads/Practica 6/Practica 6/bin/Debug/Practica 6.exe.config
+/Users/aleloag/Downloads/Practica 6/Practica 6/bin/Debug/Practica 6.exe
+/Users/aleloag/Downloads/Practica 6/Practica 6/bin/Debug/Practica 6.pdb
+/Users/aleloag/Downloads/Practica 6/Practica 6/obj/Debug/Practica 6.csproj.AssemblyReference.cache
+/Users/aleloag/Downloads/Practica 6/Practica 6/obj/Debug/Practica_6.FormularioHojaSaslarial.resources
+/Users/aleloag/Downloads/Practica 6/Practica 6/obj/Debug/Practica_6.Properties.Resources.resources
+/Users/aleloag/Downloads/Practica 6/Practica 6/obj/Debug/Practica 6.csproj.GenerateResource.cache
+/Users/aleloag/Downloads/Practica 6/Practica 6/obj/Debug/Practica 6.csproj.CoreCompileInputs.cache
+/Users/aleloag/Downloads/Practica 6/Practica 6/obj/Debug/Practica 6.exe
+/Users/aleloag/Downloads/Practica 6/Practica 6/obj/Debug/Practica 6.pdb
